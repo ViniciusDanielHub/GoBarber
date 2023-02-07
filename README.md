@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Gobarber Logo" src="https://github.com/ViniciusDanielHub/GoBarber/blob/master/.github/logo.svg" width="250px" />
+    <img alt="Gobarber Logo" src="https://github.com/ViniciusDanielHub/GoBarber/blob/main/.github/logo.svg" width="250px" />
 </h1>
 
 <h1 align="center">
